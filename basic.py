@@ -1,1 +1,0 @@
-print("hakla chirag")
